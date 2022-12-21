@@ -1,4 +1,7 @@
 arroz
 feijao
 farinha
-macaarrao
+macarrao
+sabao
+detergente
+bucha
